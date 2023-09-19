@@ -67,7 +67,7 @@ _Existen tres tipos de operadores:_
 
 _Las variables se clasifican en diversos grupos:_ 
 
-  * **Variables numéricas:** son aquellas donde se almacenan valores numéricos, positivos o negativos, es y el punto decimal. 
+* **Variables numéricas:** son aquellas donde se almacenan valores numéricos, positivos o negativos, es y el punto decimal. 
 
 * **Variables lógicas:** solo pueden tener dos valores (cierto o falso) y estos representan el resultado de una comparación entre otros datos.
 
@@ -92,6 +92,7 @@ _Algunos ejemplos de identificadores válidos son:_
 
 3. _La diferencia es:_
    * **Lenguaje demarcado:** Permite crear la estructura de un documento
+
    * **Lenguaje de programación:** Permite crear interactividad a través de las funciones. 
 
 4. **ALGORITMO:** Es el conjunto de instrucciones sistemáticos y previamente definidos que se utilizan para realizar una determinada tarea, en la programación se usan para llevar a cabo ciertos procesos y dar respuesta a determinadas necesidades o decisiones.
@@ -116,6 +117,7 @@ _Algunos ejemplos de identificadores válidos son:_
 * Tipado
   1. Nrtipados : No se especifica el tipo de dato
   1. Tipados: hay que especificar el tipo de dato
+
 6. _la lógica booleana en la programación:_
 
 La **lógica booleana** es un sistema basado en la lógica matemática, que se denomina álgebra booleana. Esta designación hace referencia al matemático inglés George Boole. Sirve para crear reglas o expresiones lógicas. Con estas expresiones lógicas se analizan, seleccionan y procesan los datos que se introducen en el componente FI-SL.
@@ -129,12 +131,16 @@ La **lógica booleana** es un sistema basado en la lógica matemática, que se d
    * Repetición
 
 >_Son el conjunto de reglas que permiten controlar el flujo de las acciones de un algoritmo o programa._
+
 8. **Variable** es:
+
 Equivalente al numero 0, una variable es un elemento de datos con nombre cuyo valor puede cambiar durante el curso de la ejecución de un programa; debemos tanto declarar la como luego asignarla.
 
 
 9. _Las funciones en la programación_
+
 * Las funciones 'empaquetan' y aíslan del resto del programa una serie de variables e instrucciones de código que realizan alguna tarea específica. Solo se ejecutan si son llamadas desde el código principal y tras procesar sus instrucciones, devuelven un resultado a esa parte del código principal que la invocó.
+
 * Una función en Python (y en cualquier otro lenguaje de programación) es un bloque de líneas de código o un conjunto de instrucciones cuya finalidad es realizar una tarea específica. Puede reutilizarse a voluntad para repetir dicha tarea. Las funciones nos ayudan a que el código sea más fácil de leer y entender.
 
 10. **Programación orientada a objetos**

@@ -6,6 +6,7 @@
 
 # Actividad 2: 
 ## Instalación de Entornos de Desarrollo para Java y ejercicios de programación básica.
+
 _Instalación de Entornos de Desarrollo para Java_
 >Objetivo: Familiarizarse con la instalación de los entornos de desarrollo necesarios para programar en Java.
 
@@ -17,10 +18,14 @@ El proceso de instalación de los entornos de desarrollo para Java, **NetBeans**
 * Ejecutar el archivo de instalación de IntelliJ IDEA y seguir las instrucciones del asistente de instalación.
 * Verificar la instalación abriendo cada IDE y creando un proyecto de Java.
 *  Explorar las características y funcionalidades de cada entorno de desarrollo.
+
 ### Prueba y ejecución de ejercicios de programación básica.
+
 * En esta actividad, pondremos en práctica los conceptos aprendidos de programación básica mediante la ejecución y prueba de diversos ejercicios. 
  Utilizaremos el lenguaje de programación **_Java_** para implementar los programas y comprobaremos su funcionamiento ingresando diferentes valores de entrada.
+
 ### 1. Programa para calcular la hipotenusa de un triángulo rectángulo:
+
 ```Java
 import java.util.Scanner;
 
