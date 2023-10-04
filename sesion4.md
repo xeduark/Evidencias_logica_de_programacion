@@ -212,7 +212,9 @@ public class Main {
     }
 }
 ```
+[Sesion3](https://xeduark.github.io/Evidencias_logica_de_programacion/sesion3.html)
 
+[Sesion5](https://xeduark.github.io/Evidencias_logica_de_programacion/sesion5.html)
 
 
 

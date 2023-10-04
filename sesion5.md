@@ -145,6 +145,10 @@ class Main {
   }
 }
 ```
+[Sesion4](https://xeduark.github.io/Evidencias_logica_de_programacion/sesion4.html)
+
+[Sesion6](https://xeduark.github.io/Evidencias_logica_de_programacion/sesion6.html)
+
 
 
 

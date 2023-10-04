@@ -246,6 +246,9 @@ public class AreaRectangulo {
     }
 }
 ```
+[Sesion1](https://xeduark.github.io/Evidencias_logica_de_programacion/sesion1.html)
+
+[Sesion3](https://xeduark.github.io/Evidencias_logica_de_programacion/sesion3.html)
 
 
 
