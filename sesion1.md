@@ -146,6 +146,7 @@ Equivalente al numero 0, una variable es un elemento de datos con nombre cuyo va
 10. **Programación orientada a objetos**
  es:  un modelo de programación en el que el diseño de software se organiza alrededor de datos u objetos, en vez de usar funciones y lógica. Se enfoca en los objetos que los programadores necesitan manipular, en lugar de centrarse en la lógica necesaria para esa manipulación.
  
+ 
 [Inicio](https://xeduark.github.io/Evidencias_logica_de_programacion/)
 
 [Sesion2](https://xeduark.github.io/Evidencias_logica_de_programacion/sesion2.html)
