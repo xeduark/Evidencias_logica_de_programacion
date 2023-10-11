@@ -10,7 +10,8 @@
 Selecciona dos ejercicios de la sesión 10, impleméntalos, ejecútalos y proporciona una explicación detallada de cada uno.
 
 1. ### Programa en Java para formar subgrupos con integrantes aleatorios de igual cantidad.
-```Java
+
+```java
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Scanner;
@@ -55,7 +56,7 @@ public class FormacionSubgrupos {
 
 2. ### Programa en Java para asignar aleatoriamente ejercicios a un grupo de personas sin repetir.
 
-```JAVA
+```java
 
 import java.util.ArrayList;
 import java.util.Collections;

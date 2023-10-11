@@ -12,7 +12,7 @@
 
 >Ejemplo Array:
 
-```JAVA
+```java
 import java.util.Arrays;
 
 public class EjercicioArray {
@@ -48,7 +48,7 @@ public class EjercicioArray {
 ```
 >Ejemplo Array list:
 
-```JAVA
+```java
 import java.util.ArrayList; 
 import java.util.Scanner;
 
@@ -106,7 +106,8 @@ public class AppNotas {
 2. Crear un ejemplo de Array y otro de ArrayList para visualizar sus diferencias.
 
 ### 1. Array 
-```JAVA
+
+```java
 import java.util.Arrays;
 public class Main {
     public static void main(String[] args) {
@@ -125,8 +126,8 @@ public class Main {
 ```
 ### 2. ArrayList
 
-```JAVA
-import java.util.*;
+```java
+import java.util;
 //By: xeduark
 public class Main {
 

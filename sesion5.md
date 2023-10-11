@@ -23,7 +23,7 @@ _Resolver los siguientes ejercicios:_
 ### Ejercicios - while
 
 1.
- ```JAVA
+ ```java
 import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
@@ -43,7 +43,7 @@ public class Main {
 }
 ```
 2. 
-```JAVA
+```java
 import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
@@ -69,7 +69,7 @@ public class Main {
 ### Ejercicios - do while
 
 1. 
-```JAVA
+```java
 import java.util.Scanner;
 class Main {
   public static void main(String[] args) {
@@ -85,7 +85,7 @@ class Main {
 }
 ```
 2. 
-```JAVA
+```java
 import java.util.Scanner;
 class Main {
   public static void main(String[] args) {
@@ -108,7 +108,7 @@ class Main {
 
 1. 
 
-```JAVA
+```java
 class Main {
   public static void main(String[] args) {
     for (int i=1; i<50; i+=2) {
@@ -120,7 +120,7 @@ class Main {
 }
 ```
 2. 
-```JAVA
+```java
 class Main {
   public static void main(String[] args) {
     int num1max = 100;

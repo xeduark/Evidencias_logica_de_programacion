@@ -26,7 +26,8 @@
 ### SOLUCIÓN 
 
 1. **Suma y multiplicación:**
-```JAVA
+
+```java
 //By : xeduark
 public class Main {
     public static void main(String[] args) {
@@ -49,7 +50,7 @@ public class Main {
 
 2. **Resta y división:**
 
-```JAVA 
+```java
 //  By : xeduark
 public class Main {
     public static void main(String[] args) {
@@ -71,7 +72,7 @@ public class Main {
 ```
 3. **Operaciones combinadas:**
 
-```JAVA
+```java
 //By : xeduark
 public class Main {
     public static void main(String[] args) {
@@ -100,7 +101,7 @@ public class Main {
 
 4. **Operaciones con decimales:**
 
-``` JAVA
+```java
 //By: xeduark
 public class Main {
     public static void main(String[] args) {
@@ -128,7 +129,7 @@ public class Main {
 
 5. **Incremento y decremento:**
 
-``` JAVA
+```java
 //By: xeduark
 import java.util.Scanner;
 
@@ -150,7 +151,7 @@ public class Main {
 
 6. **Operador de asignación compuesta:**
 
-``` JAVA 
+```java
 //By: xeduark
 public class Main {
     public static void main(String[] args) {
@@ -167,7 +168,7 @@ public class Main {
 
 7. **Operadores lógicos:**
 
-``` JAVA
+```java
 import java.util.Scanner;
 //By: xeduark
 public class Main {
@@ -195,7 +196,7 @@ public class Main {
 ```
 8. **Operador ternario:**
 
-``` JAVA
+```java
 import java.util.Scanner;
 
 public class Main {

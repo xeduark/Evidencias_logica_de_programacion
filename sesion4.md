@@ -7,7 +7,7 @@
 # Actividad 4: 
 ## Ejercicios de control de flujo con expresiones compuestas
 
-```JAVA
+```java
 // Variables de tipo String
 String nombre = "Juan Pérez";
 String apellido = "González";
@@ -49,7 +49,7 @@ Con la información anterior, implementa los siguientes ejercicios:
 
 ## SOLUCIÓN
 
-```JAVA
+```java
 import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {

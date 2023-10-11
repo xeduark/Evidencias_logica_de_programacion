@@ -26,7 +26,7 @@ El proceso de instalación de los entornos de desarrollo para Java, **NetBeans**
 
 ### 1. Programa para calcular la hipotenusa de un triángulo rectángulo:
 
-```Java
+```java
 import java.util.Scanner;
 
 public class HipotenusaTriangulo {
@@ -47,7 +47,7 @@ public class HipotenusaTriangulo {
 }
 ```
 ### 2. Programa para determinar si un número es par o impar:
-```Java
+```java
 import java.util.Scanner;
 
 public class ParImpar {
@@ -68,7 +68,7 @@ public class ParImpar {
 }
 ```
 ### 3. Programa para calcular el tercer ángulo de un triángulo:
-```Java
+```java
 import java.util.Scanner;
 
 public class TercerAnguloTriangulo {
@@ -93,7 +93,7 @@ public class TercerAnguloTriangulo {
 }
 ```
 ### 4. Programa para calcular el promedio de tres números:
-```Java
+```java
 import java.util.Scanner;
 
 public class PromedioTresNumeros {
@@ -117,7 +117,7 @@ public class PromedioTresNumeros {
 }
 ```
 ### 5. Programa para calcular la longitud de una cadena de texto:
-```Java
+```java
 import java.util.Scanner;
 
 public class LongitudCadena {
@@ -135,7 +135,7 @@ public class LongitudCadena {
 }
 ```
 ### 6. Programa para calcular el área de un triángulo:
-```Java
+```java
 import java.util.Scanner;
 
 public class AreaTriangulo {
@@ -156,7 +156,8 @@ public class AreaTriangulo {
 }
 ```
 ### 7. Programa para calcular la raíz cuadrada de un número:
-```Java
+
+```java
 import java.util.Scanner;
 
 public class RaizCuadrada {
@@ -174,7 +175,8 @@ public class RaizCuadrada {
 }
 ```
 ### 8. Programa para calcular el máximo común divisor (MCD) de dos números:
-```Java
+
+```java
 import java.util.Scanner;
 
 publicclass MaximoComunDivisor {
@@ -204,7 +206,8 @@ publicclass MaximoComunDivisor {
 }
 ```
 ### 9. Programa para imprimir una cadena de texto en orden inverso:
-```Java
+
+```java
 import java.util.Scanner;
 
 public class CadenaInversa {
@@ -226,7 +229,7 @@ public class CadenaInversa {
 }
 ```
 ### 10. Programa para calcular el área de un rectángulo:
-```Java
+```java
 import java.util.Scanner;
 
 public class AreaRectangulo {

@@ -26,7 +26,7 @@ La mediana es el elemento central de un grupo ordenado cuando la cantidad de ele
 
 >Ejemplo
 
-```JAVA
+```java
 import java.util.Arrays;
 import java.lang.reflect.Array;
 
