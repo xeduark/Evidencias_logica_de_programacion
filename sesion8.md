@@ -18,7 +18,8 @@ Implementar los siguientes métodos:
 ### SOLUCIÓN
 
 1. 
-```java
+```JAVA
+
 //By:xeduark
 
 
@@ -49,6 +50,7 @@ public static void main(String[]args)
 }
 
 }
+
 ```
 
 2. 
