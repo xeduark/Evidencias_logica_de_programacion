@@ -17,9 +17,10 @@ Implementar los siguientes métodos:
 
 ### SOLUCIÓN
 
-1. 
-```JAVA
+1.
 
+
+```java
 //By:xeduark
 
 
@@ -54,6 +55,8 @@ public static void main(String[]args)
 ```
 
 2. 
+
+
 ```java
 import java.util.Scanner;
 
@@ -119,6 +122,7 @@ public class Main {
 
 4. 
 
+
 ```java
 //By xeduark
 public class Main {
@@ -137,7 +141,8 @@ public class Main {
    
 }
 ```
-5. 
+5.
+
 
 ```java
 
