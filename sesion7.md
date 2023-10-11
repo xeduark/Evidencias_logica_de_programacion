@@ -164,9 +164,10 @@ public class Main {
     }
 }
 
-
-
 ```
+[Sesion6](https://xeduark.github.io/Evidencias_logica_de_programacion/sesion6.html)
+
+[Sesion8](https://xeduark.github.io/Evidencias_logica_de_programacion/sesion8.html)
 
 
 

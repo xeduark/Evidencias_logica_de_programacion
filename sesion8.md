@@ -139,6 +139,26 @@ public class Main {
 
 ```java
 
+//By : Xeduark
+
+import java.util.Arrays;
+
+
+
+public class Main {
+    public static void main(String[] args) {
+
+        public static String ordenarPalabras(String texto); {
+            // Dividir el texto en palabras
+            String[] palabras = texto.split(" Hola soy amigo de todos en el Cesde");
+            Arrays.sort(palabras);
+            String resultado = String.join(" ", palabras);
+            return resultado;
+
+        }
+    }
+}
+
 ```
 
 
