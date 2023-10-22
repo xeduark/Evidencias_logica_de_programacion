@@ -54,8 +54,8 @@ public class FormacionSubgrupos {
 ```
 ### Explicación:
 
->para una explicación más detallada usare diagramas de flujo en mermaid
-
+>para una explicación más detallada usare diagramas de flujo.
+![Diagrama de flujo](images/d2.png)
 
 2. ### Programa en Java para asignar aleatoriamente ejercicios a un grupo de personas sin repetir.
 
@@ -101,6 +101,10 @@ public class AsignacionEjercicios {
 }
 ```
 ### Explicación:
+
+>para una explicación más detallada usare diagramas de flujo.
+
+![diagrama de flujo](images/d1.png)
 
 [Sesion9](https://xeduark.github.io/Evidencias_logica_de_programacion/sesion9.html)
 

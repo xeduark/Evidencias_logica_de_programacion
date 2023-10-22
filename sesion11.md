@@ -75,6 +75,9 @@ public class Main {
 
     }
 ```
+[Sesion10](https://xeduark.github.io/Evidencias_logica_de_programacion/sesion10.html)
+
+[Sesion12](https://xeduark.github.io/Evidencias_logica_de_programacion/sesion12.html)
 
 
 
